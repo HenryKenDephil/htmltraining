@@ -1,0 +1,50 @@
+/*h1 {
+    color:blue;
+    font-size: 36px;
+}
+element selector uses #
+#contact{
+    color: red;font-size: 14;
+}
+class selector uses fullstop
+.signup{
+    color: red;
+
+body{
+    background-color: bisque;
+}*/
+body{
+    background-color: burlywood;
+}
+form{
+    background-color: white;
+    padding: 10pt;
+    width: 70%;
+    margin: auto;
+    display: block;
+    border-radius: 20px;
+}
+input{
+ display: block;
+ width: 50%;
+ margin: auto;
+ padding: 10px;
+ border-radius: 10px;
+}
+
+#red-button{
+    background-color: red;
+    width: 50%;
+    color: white;
+    padding: 10px;
+    margin:auto;
+    display: block;
+    border-radius: 5em;
+
+}
+label{
+    margin: 5em;
+}
+h1{
+    text-align: center;
+}
